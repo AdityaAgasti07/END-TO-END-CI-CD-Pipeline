@@ -77,5 +77,6 @@ sh apache-tomcat-9.0.90/bin/startup.sh
 ## Viewing the Deployed Application
 After deploying the application, you can view it by navigating to the following URL in your web browser:
 
+
 http://<public-ip>:8090/netflix/
 Replace <public-ip> with the public IP address of your Tomcat server.
